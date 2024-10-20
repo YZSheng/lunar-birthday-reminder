@@ -51,3 +51,5 @@ docs/_build/
 
 .venv/
 config/dates.yaml
+event.js
+config/solar_birthday.yaml
